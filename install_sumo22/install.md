@@ -1,4 +1,4 @@
-# Install and activate SUMO19
+# Install and activate Sumo22
 
 ## 1. Download
 
